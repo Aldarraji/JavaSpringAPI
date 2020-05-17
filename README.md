@@ -5,13 +5,23 @@ of this API I used fake ID's and Names.
 
 ## ScreenShots
 Note: I used Postman to make all the calls in the screenshots.  
+
 Delete
+
 ![](https://github.com/Aldarraji/JavaSpringAPI/blob/master/Screenshots/Delete.JPG)
+
 GetAll
+
 ![](https://github.com/Aldarraji/JavaSpringAPI/blob/master/Screenshots/Get%20All.JPG)
+
 Update
+
 ![](https://github.com/Aldarraji/JavaSpringAPI/blob/master/Screenshots/Update.JPG)
+
 Send
+
 ![](https://github.com/Aldarraji/JavaSpringAPI/blob/master/Screenshots/send.JPG)
+
 Digram
+
 ![](https://github.com/Aldarraji/JavaSpringAPI/blob/master/Screenshots/digram.JPG)
