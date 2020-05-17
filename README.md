@@ -1,10 +1,3 @@
- .   ____          _            __ _ _   
- /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \   
-( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \   
- \\/  ___)| |_)| | | | | || (_| |  ) ) ) )   
-  '  |____| .__|_| |_|_| |_\__, | / / / /   
- =========|_|==============|___/=/_/_/_/   
-  
 # Java Spring API
 ### This API can be used as a admin panel page to add, remove, update users and ID's. 
 The API runs on localhost:8080 and the database can be changed, for the perpuse
