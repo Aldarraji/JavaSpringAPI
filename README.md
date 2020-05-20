@@ -1,4 +1,4 @@
-# Java Spring API
+# admin panel API
 ### This API can be used as a admin panel page to add, remove, update users and ID's.
 The API runs on localhost:8080 and the database can be changed, for the perpuse
 of this API I used fake ID's and Names.
